@@ -1,0 +1,31 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 80px;
+    background-image: url("../images/bgn.png");
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #e072db;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    font-family: "lora";
+    padding: 0;
+    box-shadow: 10px 5px 20px 2px lightslategrey 
+}
